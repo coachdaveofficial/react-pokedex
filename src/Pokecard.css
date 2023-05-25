@@ -1,0 +1,13 @@
+.poke-card {
+    
+    width: 8em;
+    background-color: lightgray;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+  }
+
+.poke-name {
+    color: blue;
+    font-weight: bold;
+}
